@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),l=a("Wbzz"),c=a("LbRr"),o=a("/4kY");t.default=function(){return r.a.createElement("div",null,r.a.createElement(o.a,null),r.a.createElement(l.a,{to:"/"},"Home"),r.a.createElement(c.a,{headerText:"Contact"}),r.a.createElement("p",null,"Send me a Hi! on ",r.a.createElement("a",{href:"https://twitter.com/JebusDoodles"},"Twitter")))}}}]);
-//# sourceMappingURL=component---src-pages-contact-js-226f595c9311f4d14c90.js.map
